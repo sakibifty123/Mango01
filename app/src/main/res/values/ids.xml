@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageViewId" type="id" />
+    <item name="fazliButtonId" type="id" />
+    <item name="LangraButtonId" type="id" />
+    <item name="FazliButtonId" type="id" />
+    <item name="HimsagorButtonId" type="id" />
+</resources>

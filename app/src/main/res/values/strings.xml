@@ -1,0 +1,23 @@
+<resources>
+    <string name="Mango_name">Mango01</string>
+    <string name="Himsagor_button">Himsagor</string>
+    <string name="Langra_button">Langra</string>
+    <string name="Fazli_button">Fazli</string>
+
+    <string name="Himsagor_text">
+        The 'Himsagar' mango is a popular mango cultivar, originating in the modern-day state of West Bengal in India. The inside is yellow to orange in colour and does not have any fibre. The fruit is medium-sized and weighs between 250 and 350 grams, out of which the pulp content is around 77%. It has a good keeping quality. It is also known as Khirsapati.
+
+        Himsagar ripens in May and it is available in the market from the second week of May to the end of June. It is mainly grown in the Malda, Murshidabad, Nadia, and Hooghly districts of West Bengal, and in the Chapai Nawabganj district of neighboring Bangladesh.
+    </string>
+
+    <string name="Langra_text">
+        The 'Langra' mango, also known as Banarasi Langra, is a mango cultivar primarily grown in Varanasi, or Banaras, Northern India, Bangladesh and Pakistan.In some part of northern India and in Bihar 'Langra' mango also known as 'Danka' Mango.
+
+        This cultivar retains a greenish tinge while ripening. It is normally harvested during the last half of July. Around 2006, it was known to be gaining popularity on the international market. It is considered suitable for slicing and canning.
+    </string>
+
+    <string name="Fazli_text">
+        The 'Fazli' mango is a mango cultivar from the eastern regions of the Indian subcontinent, primarily grown in India (specifically, Indian states of West Bengal and Bihar) and Bangladesh.It is a late maturing fruit, available after other varieties. Fazlis are commonly used in jams and pickles in the cuisine of the Indian subcontinent. Each mango can be quite large, going up to a kilo. The Malda district area of West Bengal, is the major producers of fazli. An important commercial variety, it is increasingly being exported.
+
+    </string>
+</resources>
